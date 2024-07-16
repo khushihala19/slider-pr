@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+.slick-dots{
+    display: none !important;
+}
+.slider {
+    width: 80%;
+    margin: 50px auto;
+    height: 50%;
+}
+.slick-slide img {
+    width: 99%;
+    border-radius: 10px;
+    object-fit: cover;
+}
+img{
+    height: 600px;
+}
